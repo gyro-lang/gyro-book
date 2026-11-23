@@ -10,6 +10,7 @@
   - [Imports](common-programming-concepts/imports.md)
   - [Types](common-programming-concepts/types.md)
   - [Structs](common-programming-concepts/structs.md)
+  - [Enums](common-programming-concepts/enums.md)
   - [Arrays](common-programming-concepts/arrays.md)
   - [Keywords](common-programming-concepts/keywords/README.md)
     - [`when`](common-programming-concepts/keywords/when.md)
